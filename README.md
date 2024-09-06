@@ -1,8 +1,8 @@
 # 🚀 **AWS COGNITO AUTHENTICATION API** 🚀
 _A simple API for authentication using AWS Cognito._
 
-[![Build Status](https://img.shields.io/github/workflow/status/your-repo/your-project/CI?style=for-the-badge)](https://github.com/your-repo/your-project/actions)
-[![License](https://img.shields.io/github/license/your-repo/your-project?style=for-the-badge)](https://github.com/your-repo/your-project/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/SilverMaster-GT/aws-caa/CI?style=for-the-badge)](https://github.com/SilverMaster-GT/aws-caa/actions)
+[![License](https://img.shields.io/github/license/SilverMaster-GT/aws-caa?style=for-the-badge)](https://github.com/SilverMaster-GT/aws-caa/blob/main/LICENSE)
 ![Node.js](https://img.shields.io/badge/Node.js-v20+-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey?style=for-the-badge&logo=express)
 ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-%23FF9900?style=for-the-badge&logo=amazon-aws)
